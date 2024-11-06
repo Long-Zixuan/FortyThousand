@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Long_\source\repos\FortyThousand2.1\FortyThousand2.0\main.cpp(731,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Long_\source\repos\FortyThousand2.1\FortyThousand2.0\main.cpp(731,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Long_\source\repos\FortyThousand2.1\FortyThousand2.0\main.cpp(732,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Long_\source\repos\FortyThousand2.1\FortyThousand2.0\main.cpp(732,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Long_\source\repos\FortyThousand2.1\FortyThousand2.0\main.cpp(881,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Long_\source\repos\FortyThousand2.1\FortyThousand2.0\main.cpp(882,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  FortyThousand2.0.vcxproj -> C:\Users\Long_\source\repos\FortyThousand2.1\x64\Debug\FortyThousand2.0.exe

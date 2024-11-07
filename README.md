@@ -7,6 +7,7 @@
 <p>于大二上学期前的小学期开发，也是我第一个不基于游戏引擎开发的游戏</p>
 <p>↑↓←→控制角色移动，空格键开火，数字键12345678控制开火方向，Esc键暂停游戏</p>
 <p>年少无知的我也不知道什么UV坐标，结果只是预设了两个分辨率</p>
+<p>最愚蠢的是，我居然没有封装一个Botton类，面向对象的程序设计真的是白学了</p>
 <p>不过该说不说，这个游戏该有的似乎都有(就是代码狮山了点)</p>
 <p align="center">
     <img width="1200px" src="https://github.com/Long-Zixuan/FortyThousand/blob/master/ImgAndApp/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-07%20111459.png">   
@@ -28,5 +29,10 @@
 
 <p align="center">
     <img width="1200px" src="https://github.com/Long-Zixuan/FortyThousand/blob/master/ImgAndApp/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-07%20111643.png">   
-    <p align="center">胜利对话框对话框</p>
+    <p align="center">胜利对话框</p>
+</p>
+
+<p align="center">
+    <img width="1200px" src="https://github.com/Long-Zixuan/FortyThousand/blob/master/ImgAndApp/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-07%20111608.png">   
+    <p align="center">死亡对话框</p>
 </p>

@@ -34,6 +34,6 @@
 </p>
 
 <p align="center">
-    <img width="1200px" src="https://github.com/Long-Zixuan/FortyThousand/blob/master/ImgAndApp/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-07%20111608.png">   
+    <img width="1200px" src="https://github.com/Long-Zixuan/FortyThousand/blob/master/ImgAndApp/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-07%20113608.png">   
     <p align="center">死亡对话框</p>
 </p>

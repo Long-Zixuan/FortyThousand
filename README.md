@@ -9,6 +9,7 @@
 <p>年少无知的我也不知道什么UV坐标，结果只是预设了两个分辨率</p>
 <p>最愚蠢的是，我居然没有封装一个Botton类，面向对象的程序设计真的是白学了</p>
 <p>不过该说不说，这个游戏该有的似乎都有(就是代码狮山了点)</p>
+<p>感谢崔大美术无私的帮我绘制插画，制作动画</p>
 <p align="center">
     <img width="1200px" src="https://github.com/Long-Zixuan/FortyThousand/blob/master/ImgAndApp/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-07%20111459.png">   
     <p align="center">开始界面</p>
